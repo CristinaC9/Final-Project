@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #71B3D8;
+}
+
+li a {
+  display: block;
+  color: #2A3967;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #9E9797;
+  color: navy;
+}
